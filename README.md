@@ -65,3 +65,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Laravel-React-Tutorial
+
+
+
+# References
+・LaravelのプロジェクトでReactを連携させる方法【入門】
+https://migisanblog.com/laravel-react-install/
+
+・Tutorial Singkat LARAVEL REACT JS | routing dengan react-router-dom
+https://www.youtube.com/watch?v=PJ3uzP30eyk
+
